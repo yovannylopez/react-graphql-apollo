@@ -10,7 +10,7 @@ import { InMemoryCache } from 'apollo-cache-inmemory';
 
 import * as serviceWorker from './serviceWorker';
 
-const token = "5ab4c254fed0c17f0a8402fa20cf73c3a2d4cfae";
+const token = "d04a5ee332e41912ee6ee4f1be130b3f3a20a47d";
 
 const httpLink = {
     uri: 'https://api.github.com/graphql',
